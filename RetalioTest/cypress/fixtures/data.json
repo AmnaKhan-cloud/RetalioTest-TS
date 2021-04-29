@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Sydney",
+    "check_in": "1/22/2020",
+    "check_out": "7/2/2020",
+    "Adullts": "1",
+    "Children": "2",
+    "Infants": "3"
+  },
+  {
+    "city": "London",
+    "check_in": "1/22/2020",
+    "check_out": "7/2/2020",
+    "Adullts": "1",
+    "Children": "2",
+    "Infants": "3"
+  }
+]

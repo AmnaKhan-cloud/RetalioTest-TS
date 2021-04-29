@@ -1,0 +1,9 @@
+{
+"chromeWebSecurity":false,
+
+"env":{
+    "baseUrl":"https://www.airbnb.com/"
+
+}
+
+}  
